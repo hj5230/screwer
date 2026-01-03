@@ -24,8 +24,12 @@
     "@rslib/core": "^0.19.1",
     "@rstest/adapter-rslib": "^0.1.1",
     "@rstest/core": "^0.7.7",
+    "@types/lodash": "^4.17.21",
     "@types/node": "^24.10.4",
     "typescript": "^5.9.3"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
